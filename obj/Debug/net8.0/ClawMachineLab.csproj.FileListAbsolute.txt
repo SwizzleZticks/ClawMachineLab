@@ -1,0 +1,14 @@
+C:\Users\Josh\OneDrive\Desktop\workspace\Labs\ClawMachineLab\bin\Debug\net8.0\ClawMachineLab.exe
+C:\Users\Josh\OneDrive\Desktop\workspace\Labs\ClawMachineLab\bin\Debug\net8.0\ClawMachineLab.deps.json
+C:\Users\Josh\OneDrive\Desktop\workspace\Labs\ClawMachineLab\bin\Debug\net8.0\ClawMachineLab.runtimeconfig.json
+C:\Users\Josh\OneDrive\Desktop\workspace\Labs\ClawMachineLab\bin\Debug\net8.0\ClawMachineLab.dll
+C:\Users\Josh\OneDrive\Desktop\workspace\Labs\ClawMachineLab\bin\Debug\net8.0\ClawMachineLab.pdb
+C:\Users\Josh\OneDrive\Desktop\workspace\Labs\ClawMachineLab\obj\Debug\net8.0\ClawMachineLab.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Josh\OneDrive\Desktop\workspace\Labs\ClawMachineLab\obj\Debug\net8.0\ClawMachineLab.AssemblyInfoInputs.cache
+C:\Users\Josh\OneDrive\Desktop\workspace\Labs\ClawMachineLab\obj\Debug\net8.0\ClawMachineLab.AssemblyInfo.cs
+C:\Users\Josh\OneDrive\Desktop\workspace\Labs\ClawMachineLab\obj\Debug\net8.0\ClawMachineLab.csproj.CoreCompileInputs.cache
+C:\Users\Josh\OneDrive\Desktop\workspace\Labs\ClawMachineLab\obj\Debug\net8.0\ClawMachineLab.dll
+C:\Users\Josh\OneDrive\Desktop\workspace\Labs\ClawMachineLab\obj\Debug\net8.0\refint\ClawMachineLab.dll
+C:\Users\Josh\OneDrive\Desktop\workspace\Labs\ClawMachineLab\obj\Debug\net8.0\ClawMachineLab.pdb
+C:\Users\Josh\OneDrive\Desktop\workspace\Labs\ClawMachineLab\obj\Debug\net8.0\ClawMachineLab.genruntimeconfig.cache
+C:\Users\Josh\OneDrive\Desktop\workspace\Labs\ClawMachineLab\obj\Debug\net8.0\ref\ClawMachineLab.dll
